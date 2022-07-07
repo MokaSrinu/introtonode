@@ -1,0 +1,5 @@
+const Divide=(a,b)=>{
+    return a/b;
+}
+
+module.exports=Divide;
